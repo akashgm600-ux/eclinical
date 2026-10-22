@@ -1,6 +1,6 @@
 # Clinical Trial Data Quality & ETL Pipeline
 
-[![CI](https://github.com/akashgm/clinical-trial-data-quality-etl/actions/workflows/ci.yml/badge.svg)](https://github.com/akashgm/clinical-trial-data-quality-etl/actions)
+[![CI](https://github.com/akashgm600-ux/eclinical/actions/workflows/ci.yml/badge.svg)](https://github.com/akashgm600-ux/eclinical/actions)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-green.svg)](https://fastapi.tiangolo.com/)
@@ -179,8 +179,8 @@ clinical-trial-data-quality-etl/
 #### Windows PowerShell:
 ```powershell
 # Clone repository
-git clone https://github.com/akashgm/clinical-trial-data-quality-etl.git
-cd clinical-trial-data-quality-etl
+git clone https://github.com/akashgm600-ux/eclinical.git
+cd eclinical
 
 # Create and activate virtual environment
 python -m venv .venv
@@ -196,8 +196,8 @@ Copy-Item .env.example .env
 #### macOS / Linux:
 ```bash
 # Clone repository
-git clone https://github.com/akashgm/clinical-trial-data-quality-etl.git
-cd clinical-trial-data-quality-etl
+git clone https://github.com/akashgm600-ux/eclinical.git
+cd eclinical
 
 # Create and activate virtual environment
 python3 -m venv .venv
