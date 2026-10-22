@@ -1,0 +1,12 @@
+site_id,site_name,country,investigator_name,activation_date,status
+SITE-101,Metropolitan Clinical Center 1,France,Dr. Eleanor Vance,2023-02-04,ACTIVE
+SITE-102,Metropolitan Clinical Center 2,USA,Dr. Marcus Brody,2023-02-24,ACTIVE
+SITE-103,Metropolitan Clinical Center 3,USA,Dr. Aris Thorne,2023-03-16,ACTIVE
+SITE-104,Metropolitan Clinical Center 4,France,Dr. Clara Oswald,2023-04-05,ACTIVE
+SITE-105,Metropolitan Clinical Center 5,United Kingdom,Dr. Henry Wu,2023-04-25,ACTIVE
+SITE-106,Metropolitan Clinical Center 6,Germany,Dr. Sarah Adams,2023-05-15,ACTIVE
+SITE-107,Metropolitan Clinical Center 7,Germany,Dr. Kenji Sato,2023-06-04,ACTIVE
+SITE-108,Metropolitan Clinical Center 8,Germany,Dr. Elena Rostova,2023-06-24,ACTIVE
+SITE-101,  Metropolitan Clinical Center 1 (Duplicate Entry)  ,USA,Dr. Eleanor Vance,2023-01-35,ACTIVE
+SITE-109,Oceanic Trial Facility,Australia,Dr. Jack Shephard,2023-06-01,PENDING_APPROVAL
+SITE-110,,Canada,Dr. Walter Bishop,2023-07-15,SUSPENDED
